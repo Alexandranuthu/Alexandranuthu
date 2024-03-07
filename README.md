@@ -20,10 +20,7 @@ Nice to meet you, I had this brilliant revelation that building physical project
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight )
 
-<!--
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 270px;"/>
--->
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
