@@ -1,6 +1,5 @@
 ### Hey, I'm Alexandra 🕵🏽‍♀️
 Nice to meet you, I had this brilliant revelation that building physical projects might involve more than just pressing keys on my keyboard. So, I thought, why not create a virtual empire instead?
-- 🔭 Probably working on a random project.
 - 🤖 Studying full-stack development at the Institute of Software Technologies, Kenya.
 - 💭 Laravel and PHP.
   
