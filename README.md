@@ -10,11 +10,9 @@ Nice to meet you, I had this brilliant revelation that building physical project
 - Frameworks: ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
 - UI/UX/Planning: ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) 
 - API TESTING/DEVELOPMENT: ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-  
-  # ✨ Fun Facts
+   # ✨ Fun Facts
 - Modern Family is my favorite sitcom.
-- I'd rather watch a film than a series.
-- I love music (my family calls it an obsession).
+
 
 
 
