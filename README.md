@@ -1,8 +1,5 @@
 ### Hey, I'm Alexandra 🕵🏽‍♀️
 Nice to meet you, I had this brilliant revelation that building physical projects might involve more than just pressing keys on my keyboard. So, I thought, why not create a virtual empire instead?
-- 🤖 Studying full-stack development at the Institute of Software Technologies, Kenya.
-- 💭 Laravel and PHP.
-  
 # 💻 Tech Stack
 - Frontend development: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
 - Backend development: ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) 
