@@ -30,7 +30,7 @@ I had this brilliant revelation that building physical projects might involve mo
   - User profiles and activity feeds.
   - Job board and event management tool.
 
-  - # ✨ Fun Facts
+# ✨ Fun Facts
 - Modern Family is my favorite sitcom.
 - Smiling friends might be my fav animation series.
 
