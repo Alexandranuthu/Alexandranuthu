@@ -9,21 +9,21 @@ I had this brilliant revelation that building physical projects might involve mo
 - API TESTING/DEVELOPMENT: ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
 # Apps and Websites
-  - # Nairo Film Quest
+  -  Nairo Film Quest
 - **Description**: Kenyan film discovery and discussion platform.
 - **Technologies**: React.js, MongoDB, Node.js, Express.js.
 - **Features**: 
   - Comprehensive review and rating system.
   - OAuth implementation for secure user access.
 
- - # STAYZEN
+ -  STAYZEN
 - **Description**: Hotel booking application.
 - **Technologies**: Flutter, Dart.
 - **Features**: 
   - Responsive booking system.
   - Secure payment integration with MPESA.
 
- - # UNITERN
+ -  UNITERN
 - **Description**: Alumni Management System.
 - **Technologies**: Laravel, PHP.
 - **Features**: 
