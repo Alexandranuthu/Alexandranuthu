@@ -7,6 +7,29 @@ I had this brilliant revelation that building physical projects might involve mo
 - Frameworks: ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white)
 - UI/UX/Planning: ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) 
 - API TESTING/DEVELOPMENT: ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+
+  # Apps and Websites
+  ## Nairo Film Quest
+- **Description**: Kenyan film discovery and discussion platform.
+- **Technologies**: React.js, MongoDB, Node.js, Express.js.
+- **Features**: 
+  - Comprehensive review and rating system.
+  - OAuth implementation for secure user access.
+
+## STAYZEN
+- **Description**: Hotel booking application.
+- **Technologies**: Flutter, Dart.
+- **Features**: 
+  - Responsive booking system.
+  - Secure payment integration with MPESA.
+
+## UNITERN
+- **Description**: Alumni Management System.
+- **Technologies**: Laravel, PHP.
+- **Features**: 
+  - User profiles and activity feeds.
+  - Job board and event management tool.
+
    # ✨ Fun Facts
 - Modern Family is my favorite sitcom.
 - Smiling friends might be my fav animation series.
